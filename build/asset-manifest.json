@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/milapdave.github.io/static/css/main.097300a4.chunk.css",
-    "main.js": "/milapdave.github.io/static/js/main.5d5d85a5.chunk.js",
-    "main.js.map": "/milapdave.github.io/static/js/main.5d5d85a5.chunk.js.map",
+    "main.js": "/milapdave.github.io/static/js/main.c8cff132.chunk.js",
+    "main.js.map": "/milapdave.github.io/static/js/main.c8cff132.chunk.js.map",
     "runtime-main.js": "/milapdave.github.io/static/js/runtime-main.c082a05f.js",
     "runtime-main.js.map": "/milapdave.github.io/static/js/runtime-main.c082a05f.js.map",
     "static/js/2.5cd11d94.chunk.js": "/milapdave.github.io/static/js/2.5cd11d94.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c082a05f.js",
     "static/js/2.5cd11d94.chunk.js",
     "static/css/main.097300a4.chunk.css",
-    "static/js/main.5d5d85a5.chunk.js"
+    "static/js/main.c8cff132.chunk.js"
   ]
 }
