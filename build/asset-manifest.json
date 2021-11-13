@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/milapdave.github.io/static/css/main.c513613b.chunk.css",
+    "main.css": "/milapdave.github.io/static/css/main.097300a4.chunk.css",
     "main.js": "/milapdave.github.io/static/js/main.5d5d85a5.chunk.js",
     "main.js.map": "/milapdave.github.io/static/js/main.5d5d85a5.chunk.js.map",
     "runtime-main.js": "/milapdave.github.io/static/js/runtime-main.c082a05f.js",
@@ -10,13 +10,13 @@
     "static/js/3.40c48146.chunk.js": "/milapdave.github.io/static/js/3.40c48146.chunk.js",
     "static/js/3.40c48146.chunk.js.map": "/milapdave.github.io/static/js/3.40c48146.chunk.js.map",
     "index.html": "/milapdave.github.io/index.html",
-    "static/css/main.c513613b.chunk.css.map": "/milapdave.github.io/static/css/main.c513613b.chunk.css.map",
+    "static/css/main.097300a4.chunk.css.map": "/milapdave.github.io/static/css/main.097300a4.chunk.css.map",
     "static/js/2.5cd11d94.chunk.js.LICENSE.txt": "/milapdave.github.io/static/js/2.5cd11d94.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c082a05f.js",
     "static/js/2.5cd11d94.chunk.js",
-    "static/css/main.c513613b.chunk.css",
+    "static/css/main.097300a4.chunk.css",
     "static/js/main.5d5d85a5.chunk.js"
   ]
 }
